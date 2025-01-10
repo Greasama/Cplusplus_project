@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D0511D-8AD0-4D01-84B9-8D274E85C1D3}|\u4FC4\u7F57\u65AF\u65B9\u5757.vcxproj|E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6D0511D-8AD0-4D01-84B9-8D274E85C1D3}|\u4FC4\u7F57\u65AF\u65B9\u5757.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D0511D-8AD0-4D01-84B9-8D274E85C1D3}|\u4FC4\u7F57\u65AF\u65B9\u5757.vcxproj|E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6D0511D-8AD0-4D01-84B9-8D274E85C1D3}|\u4FC4\u7F57\u65AF\u65B9\u5757.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D0511D-8AD0-4D01-84B9-8D274E85C1D3}|\u4FC4\u7F57\u65AF\u65B9\u5757.vcxproj|E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6D0511D-8AD0-4D01-84B9-8D274E85C1D3}|\u4FC4\u7F57\u65AF\u65B9\u5757.vcxproj|solutionrelative:block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D0511D-8AD0-4D01-84B9-8D274E85C1D3}|\u4FC4\u7F57\u65AF\u65B9\u5757.vcxproj|E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6D0511D-8AD0-4D01-84B9-8D274E85C1D3}|\u4FC4\u7F57\u65AF\u65B9\u5757.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D0511D-8AD0-4D01-84B9-8D274E85C1D3}|\u4FC4\u7F57\u65AF\u65B9\u5757.vcxproj|E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6D0511D-8AD0-4D01-84B9-8D274E85C1D3}|\u4FC4\u7F57\u65AF\u65B9\u5757.vcxproj|solutionrelative:block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.cpp",
+              "DocumentMoniker": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\game.cpp",
+              "RelativeDocumentMoniker": "game.cpp",
+              "ToolTip": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\game.cpp",
+              "RelativeToolTip": "game.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T08:44:58.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "block.cpp",
+              "DocumentMoniker": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\block.cpp",
+              "RelativeDocumentMoniker": "block.cpp",
+              "ToolTip": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\block.cpp",
+              "RelativeToolTip": "block.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAGoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T08:44:58.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T08:44:59.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game.h",
+              "DocumentMoniker": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwDMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T08:44:59.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "block.h",
+              "DocumentMoniker": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\block.h",
+              "RelativeDocumentMoniker": "block.h",
+              "ToolTip": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u4FC4\u7F57\u65AF\u65B9\u5757\\block.h",
+              "RelativeToolTip": "block.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T08:44:59.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
