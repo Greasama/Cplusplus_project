@@ -1,0 +1,3 @@
+﻿  春日影.cpp
+E:\Reinovo\e.g\Programming\C++\春日影\春日影\春日影.cpp(477,31): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+  春日影.vcxproj -> E:\Reinovo\e.g\Programming\C++\春日影\x64\Debug\春日影.exe
