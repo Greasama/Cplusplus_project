@@ -1,0 +1,27 @@
+﻿  Ai.cpp
+  Chess.cpp
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(71,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(71,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(72,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(72,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(85,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(86,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(87,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(88,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(89,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(96,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(110,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(112,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(126,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(127,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(140,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(141,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(142,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(161,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\Chess.cpp(162,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ChessGame.cpp
+  main.cpp
+E:\ProgramData\E.g\C++\人机五子棋\五子棋\main.cpp(7,26): warning C4305: “参数”: 从“double”到“float”截断
+  Man.cpp
+  正在生成代码...
+  五子棋.vcxproj -> E:\ProgramData\E.g\C++\人机五子棋\五子棋\x64\Debug\五子棋.exe
