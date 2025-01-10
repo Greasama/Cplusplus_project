@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  ConverPixel.cpp
+  HalconArithmetic.cpp
+  HalconWin.cpp
+  MvCamera.cpp
+  MV_RAW2HObject.cpp
+  MV_RAW2HObjectDlg.cpp
+H:\system\destop\18期机器视觉课程\联合编程与项目开发\3.相机二次开发\3.海康相机\示例代码\海康相机二次开发\1.拍图转Halcon\MV_RAW2HObjectPro\MV_RAW2HObject\MV_RAW2HObjectDlg.cpp(396,56): warning C4018: “<”: 有符号/无符号不匹配
+H:\system\destop\18期机器视觉课程\联合编程与项目开发\3.相机二次开发\3.海康相机\示例代码\海康相机二次开发\1.拍图转Halcon\MV_RAW2HObjectPro\MV_RAW2HObject\MV_RAW2HObjectDlg.cpp(444,56): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  MV_RAW2HObject.vcxproj -> H:\system\destop\18期机器视觉课程\联合编程与项目开发\3.相机二次开发\3.海康相机\示例代码\海康相机二次开发\1.拍图转Halcon\MV_RAW2HObjectPro\x64\Debug\MV_RAW2HObject.exe
