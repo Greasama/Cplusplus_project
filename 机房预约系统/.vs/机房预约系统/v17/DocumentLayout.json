@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u673A\u623F\u9884\u7EA6\u7CFB\u7EDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D78395F-6806-44E7-AAC0-19F6C4AF0CF9}|Project1.vcxproj|E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u673A\u623F\u9884\u7EA6\u7CFB\u7EDF\\\u673A\u623F\u9884\u7EA6\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D78395F-6806-44E7-AAC0-19F6C4AF0CF9}|Project1.vcxproj|solutionrelative:\u673A\u623F\u9884\u7EA6\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u673A\u623F\u9884\u7EA6\u7CFB\u7EDF.cpp",
+              "DocumentMoniker": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u673A\u623F\u9884\u7EA6\u7CFB\u7EDF\\\u673A\u623F\u9884\u7EA6\u7CFB\u7EDF.cpp",
+              "RelativeDocumentMoniker": "\u673A\u623F\u9884\u7EA6\u7CFB\u7EDF.cpp",
+              "ToolTip": "E:\\Reinovo\\e.g\\Programming\\C\u002B\u002B\\\u673A\u623F\u9884\u7EA6\u7CFB\u7EDF\\\u673A\u623F\u9884\u7EA6\u7CFB\u7EDF.cpp",
+              "RelativeToolTip": "\u673A\u623F\u9884\u7EA6\u7CFB\u7EDF.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAGwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T03:49:04.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
